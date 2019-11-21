@@ -2,7 +2,7 @@
 Aplikasi Sederhana menggunakan Flutter bertema tentang kemerdekaan Republik Indonesia.
 
 ## Screenshot
-![Flutter Apps](skrinshut/ss.jpg)
+![Flutter Apps](https://github.com/zhikariz/Tugas-2---OSG-8/blob/master/skrinshut/ss.png)
 
 ## Built With
 - [Flutter](https://flutter.dev)
